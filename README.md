@@ -1,24 +1,7 @@
-# README
+# j3-sem8_AJAX
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Utilisation d'AJAX au sein d'une application Rails.
 
-Things you may want to cover:
+(Impression que la dernière fonctionnalité ne marche pas correctement...)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ ## Made with full love by @Brice & @Lab's, in Tolosa !
